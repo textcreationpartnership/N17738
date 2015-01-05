@@ -118,8 +118,9 @@
    <text xml:lang="eng">
       <body>
          <div type="act">
-            <pb facs="tcp:022966_0000_0FBAC55B2E414348"/>
-            <pb facs="tcp:022966_0001_0FBAC55D0FB2CC80" rendition="simple:additions"/>
+            <pb facs="unknown:022966_0000_0FBAC55B2E414348"/>
+            <pb facs="unknown:022966_0001_0FBAC55D0FB2CC80"
+                rendition="simple:additions"/>
             <head>Congreſs of the United States: AT THE SECOND SESSION, Begun and held at the City of New-York, on Monday,
 <date>the Fourth of January, one thouſand ſeven hundred and ninety</date>.</head>
             <head type="sub">An <hi>ACT</hi> providing for holding a Treaty or Treaties to eſtabliſh Peace with certain Indian Tribes.</head>
